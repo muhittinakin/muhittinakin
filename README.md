@@ -6,11 +6,11 @@ Merhaba, ben Muhittin Akın👋
 - 👾   Fun fact: Equal is Not Always Equal in Javascript.
 - 📫   How to reach me: muhittinbilmuh@gmail.com
 
-
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/muhittinak%C4%B1n/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/muhittinakin) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@muhittinbilmuh) 
 [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](https://muhittinakin.blogspot.com/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/muhittinak%C4%B1n/)
+
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=muhittinakin&show_icons=true&theme=gradient) 
