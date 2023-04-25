@@ -1,4 +1,4 @@
-Merhaba, ben Muhittin👋
+Merhaba, ben Muhittin Akın👋
 - 🛠   I’m currently working with C#, MSSQL 
 - 🚀   I’m currently learning Full Stack Development.
 - 👨🏻‍💻   Most of my projects are available on Gıthub
