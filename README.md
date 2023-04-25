@@ -1,7 +1,7 @@
 Merhaba, ben Muhittin👋
 - 🛠   I’m currently working with C#, MSSQL 
 - 🚀   I’m currently learning Full Stack Development.
-- 👨🏻‍💻   Most of my projects are available on [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/muhittinakin) .
+- 👨🏻‍💻   Most of my projects are available on Gıthub
 - 💬   Ask me about anything here! I am happy to help.
 - 👾   Fun fact: Equal is Not Always Equal in Javascript.
 - 📫   How to reach me: muhittinbilmuh@gmail.com
