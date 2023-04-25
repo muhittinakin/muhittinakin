@@ -3,8 +3,7 @@ Merhaba, ben Muhittin👋
 - 🌱  Şu anda Asp.Net, PostreSql  öğreniyorum
 - 💬 Bana C#,MSSSQL ya da Canıas Erp ile ilgili herhangi bir şey sorun
 - 📫 muhittinbilmuh@gmail.com
-- ⚡  Komik ve eğlenceli olduğumu düşünüyorum
-- 
+- ⚡  Komik ve eğlenceli olduğumu düşünüyorum 
 🛠   I’m currently working with C#, .Net Core, 
 🚀   I’m currently learning Full Stack Development.
 👨🏻‍💻   Most of my projects are available on Github.
