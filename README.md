@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 -->
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=muhittinakin&show_icons=true&theme=gradient) 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=muhittinakin&show_icons=true&theme=radical)
-![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
+![Tweeting](https://twitter.com/intent/tweet?text=Wow:&url=http%3A%2F%2Fshields.io)
+           
